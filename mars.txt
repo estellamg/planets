@@ -1,5 +1,9 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for wolfman
 But mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 Mars is far away
 
+=======
+another line
+>>>>>>> d8fb6c01eeb1d1fc6f635bc1bdd262abdce119a4
